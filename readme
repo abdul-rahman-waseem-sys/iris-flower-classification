@@ -34,7 +34,7 @@ The goal is to predict the species of an Iris flower (**Setosa, Versicolor, Virg
 ## ⚙️ Installation & Setup  
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/iris-flower-classification.git
+git clone https://github.com/abdul-rahman-waseem-sys/iris-flower-classification.git
 cd iris-flower-classification
 
 # Install dependencies
