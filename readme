@@ -1,0 +1,44 @@
+# 🌸 Iris Flower Classification  
+
+This project is a machine learning classification task using the famous **Iris dataset**.  
+The goal is to predict the species of an Iris flower (**Setosa, Versicolor, Virginica**) based on four features:  
+
+- Sepal Length  
+- Sepal Width  
+- Petal Length  
+- Petal Width  
+
+---
+
+## 📌 Project Overview  
+- Loaded and explored the Iris dataset using **Pandas** and **Seaborn**  
+- Visualized data with **pair plots** and **correlation heatmaps**  
+- Preprocessed the data with **train/test split** and **scaling**  
+- Trained and evaluated multiple classification models:  
+  - Logistic Regression  
+  - K-Nearest Neighbors (KNN)  
+  - Decision Tree  
+  - Support Vector Machine (SVM)  
+- Compared model performance with **accuracy scores** and **confusion matrices**  
+
+---
+
+## 📂 Repository Structure  
+- `Iris.csv` → Dataset (from Kaggle)  
+- `iris_classification.py` → Main Python script  
+- `requirements.txt` → Required Python libraries  
+- `README.md` → Project documentation  
+
+---
+
+## ⚙️ Installation & Setup  
+```bash
+# Clone the repo
+git clone https://github.com/your-username/iris-flower-classification.git
+cd iris-flower-classification
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the script
+python iris_classification.py
